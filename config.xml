@@ -2,7 +2,7 @@
 <widget id="org.esme.bilgin.sumatra" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Sumatra</name>
     <description>
-        A cute Phaser game
+        Cordova Project for Sumatra
     </description>
     <author email="besme@esme.org" href="http://bilgin.esme.org">
         Bilgin Esme
